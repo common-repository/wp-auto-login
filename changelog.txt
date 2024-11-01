@@ -1,0 +1,7 @@
+WP Auto Login Change Log
+
+January 16, 2018 - version 1.0.1
+* Updated author info
+
+July 28, 2015 - version 1.0
+* Initial version
